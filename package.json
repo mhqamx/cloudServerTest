@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "setup": "bash ./scripts/bootstrap.sh",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
